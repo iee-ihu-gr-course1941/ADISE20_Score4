@@ -14,11 +14,11 @@
 	display: inline-block;
 }
 
-.column:hover circle.empty{
+.column:hover circle.available{
 	fill: #D5E4ED;
 }
 
-circle.empty {
+circle.available {
 	fill: #fff;
 }
 
